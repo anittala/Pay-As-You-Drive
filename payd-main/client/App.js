@@ -13,9 +13,9 @@ const Stack = createStackNavigator();
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBA2W_5lQwArXHwZtpSt8VaPnWX9SyeUSI",
+    apiKey: "",
     authDomain: "payd-97c67.firebaseapp.com",
-    databaseURL: "https://payd-97c67-default-rtdb.firebaseio.com",
+    databaseURL: "",
     projectId: "payd-97c67",
     storageBucket: "payd-97c67.appspot.com",
     messagingSenderId: "211050785424",
